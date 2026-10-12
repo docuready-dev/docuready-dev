@@ -20,7 +20,6 @@ I run **DocuReady**, specializing in high-performance web applications, native-f
 ---
 
 ### Featured Repositories
-*(Pin your best work here once your repositories are pushed!)*
 * **[LeadPulse](https://github.com/DocuReadyDev/leadpulse)** — Full-stack lead generation, CRM, and sales funnel application built with React/Vite, Node.js, and MongoDB Atlas.
 
 ---
